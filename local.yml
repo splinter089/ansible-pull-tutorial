@@ -1,8 +1,4 @@
 ---
-title: "Ansible LearnLinuxTV"
-author: "Harry Splinter"
-date: "2026-10-08"
-
 
 - name: Basic system setup
   hosts: localhost
